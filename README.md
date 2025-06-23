@@ -18,7 +18,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/carteira-cripto.git
+git clone https://github.com/SamigoSilva/CriptoWallet
 
 # Instale as dependências
 npm install
